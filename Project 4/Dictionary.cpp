@@ -1,6 +1,5 @@
 // Dictionary.cpp
 // Code by Ava Basileo
-// Help from many TA's at multiple office hours during week 10
 
 
 
